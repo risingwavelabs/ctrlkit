@@ -3,7 +3,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/risingwavelabs/ctrlkit)](https://goreportcard.com/report/github.com/risingwavelabs/ctrlkit)
 [![GoDoc](https://godoc.org/github.com/risingwavelabs/ctrlkit?status.svg)](https://godoc.org/github.com/risingwavelabs/ctrlkit)
 [![Build Status](https://github.com/risingwavelabs/ctrlkit/actions/workflows/go.yml/badge.svg)](https://github.com/risingwavelabs/ctrlkit/actions/workflows/go.yml)
-[![codecov](https://codecov.io/gh/risingwavelabs/ctrlkit/branch/master/graph/badge.svg)](https://codecov.io/gh/risingwavelabs/ctrlkit)
+[![codecov](https://codecov.io/gh/risingwavelabs/ctrlkit/branch/main/graph/badge.svg)](https://codecov.io/gh/risingwavelabs/ctrlkit)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 `ctrlkit` is a library written in Go that expedites the development of Kubernetes controllers. It provides a set of

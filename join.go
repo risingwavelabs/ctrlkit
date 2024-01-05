@@ -96,7 +96,7 @@ func runJoinActionsInParallel(ctx context.Context, actions ...Action) (result ct
 		go func() {
 			defer func() {
 				if r := recover(); r != nil {
-					*panicRef = fmt.Sprintf("Action '%s' panicked with '%v'", act.Description(), r)
+					*panicRef = fmt.Sprintf("Action  '%s' panicked with '%v'", act.Description(), r)
 				}
 				wg.Done()
 			}()
